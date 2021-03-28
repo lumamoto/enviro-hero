@@ -5,5 +5,5 @@ pydeck
 time
 random
 SessionState
-streamlit_echarts
+streamlit-echarts
 Pillow
