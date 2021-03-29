@@ -1,6 +1,5 @@
 streamlit
-streamlit-echarts==0.1.0
-
+streamlit-echarts
 pandas
 numpy
 pydeck

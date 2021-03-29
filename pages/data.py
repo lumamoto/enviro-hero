@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
+from streamlit_echarts import JsCode
 from streamlit_echarts import st_echarts
+from streamlit_echarts import st_pyecharts
 
 def data():
     st.header("Multiplier")
