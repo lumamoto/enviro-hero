@@ -222,6 +222,8 @@ def game():
             st.success('“It’s no hyperloop, but the slide is still fun” says Elon.')
             session_state.co2 = session_state.co2 - random.randint(1,5) * num_people
             session_state.methane = session_state.methane - random.randint(1,4) * num_people
+            session_state.q = 7
+            st.button('Next')
 
         if st.button('🔥' + scen.bad_descriptions[session_state.q]):
             st.error('UN instigates the Bristol Accord')
