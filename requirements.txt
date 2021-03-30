@@ -1,9 +1,10 @@
 streamlit
 streamlit-echarts
-# pandas
-# numpy
-# pydeck
-# time
-# random
+random
+pandas
+numpy
+pydeck
+time
+random
 # SessionState
-# Pillow
+Pillow
